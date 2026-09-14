@@ -1,0 +1,6 @@
+{
+  "name": "Business English Executive Assessment",
+  "description": "A comprehensive executive-level Business English assessment practice platform featuring randomized question pools, balanced answer distribution, realistic corporate scenarios, and immediate academic feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

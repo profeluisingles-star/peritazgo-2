@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+
+  h1, h2, h3, .font-serif {
+    font-family: 'Source Serif 4', Georgia, Cambria, 'Times New Roman', Times, serif;
+  }
+}
+
+.font-serif-pro {
+  font-family: 'Source Serif 4', Georgia, Cambria, 'Times New Roman', Times, serif;
+}
+
+.font-display {
+  font-family: 'Cinzel', 'Source Serif 4', Georgia, serif;
+}
+
